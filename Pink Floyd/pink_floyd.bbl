@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{1953ApJ...117..313J}
+H.~L. {Johnson} and W.~W. {Morgan}.
+\newblock {Fundamental stellar photometry for standards of spectral type on the Revised System of the Yerkes Spectral Atlas.}
+\newblock {\em \apj}, 117:313, May 1953.
+
+\bibitem{github}
+PoruchikRzhevsky.
+\newblock Praktikum-z-astronomie.
+\newblock \url{https://github.com/PoruchikRzhevsky/Praktikum-z-astronomie}.
+
+\bibitem{1931TrOS...33...73S}
+T.~{Smith} and J.~{Guild}.
+\newblock {The C.I.E. colorimetric standards and their use}.
+\newblock {\em Transactions of the Optical Society}, 33(3):73--134, January 1931.
+
+\end{thebibliography}
