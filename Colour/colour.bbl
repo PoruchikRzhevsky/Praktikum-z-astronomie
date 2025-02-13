@@ -1,0 +1,76 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Barker}(1987)]{barker1987}
+T.~{Barker}.
+\newblock {The Ionization Structure of Planetary Nebulae. VII. New Observations of the Ring Nebula}.
+\newblock \emph{\apj}, 322:\penalty0 922, Nov. 1987.
+\newblock \doi{10.1086/165787}.
+
+\bibitem[{De Looze} et~al.(2012){De Looze}, {Baes}, {Fritz}, and {Verstappen}]{delooze2012}
+I.~{De Looze}, M.~{Baes}, J.~{Fritz}, and J.~{Verstappen}.
+\newblock {Panchromatic radiative transfer modelling of stars and dust in the Sombrero galaxy}.
+\newblock \emph{\mnras}, 419\penalty0 (1):\penalty0 895--903, Jan. 2012.
+\newblock \doi{10.1111/j.1365-2966.2011.19759.x}.
+
+\bibitem[Fesen et~al.(2024)Fesen, Drechsler, Strottner, Falls, Sainty, Martino, Galli, Ludgate, Blauensteiner, Reich, Walker, di~Cicco, Mittelman, Morgan, Kaeouach, Rupert, and Benkhaldoun]{fesen2024}
+R.~A. Fesen, M.~Drechsler, X.~Strottner, B.~Falls, Y.~Sainty, N.~Martino, R.~Galli, M.~Ludgate, M.~Blauensteiner, W.~Reich, S.~Walker, D.~di~Cicco, D.~Mittelman, C.~Morgan, A.~E. Kaeouach, J.~Rupert, and Z.~Benkhaldoun.
+\newblock Deep optical emission-line images of nine known and three new galactic supernova remnants, 2024.
+\newblock URL \url{https://arxiv.org/abs/2403.00317}.
+
+\bibitem[{Larsen}(2000)]{larsen2000}
+S.~S. {Larsen}.
+\newblock {Young massive star clusters in M51}.
+\newblock \emph{\mnras}, 319\penalty0 (3):\penalty0 893--901, Dec. 2000.
+\newblock \doi{10.1046/j.1365-8711.2000.03913.x}.
+
+\bibitem[Liu and Mao(2015)]{liu2015}
+J.-R. Liu and S.-D. Mao.
+\newblock On the diffuse soft x-ray emission from the nuclear region of m51.
+\newblock \emph{Research in Astronomy and Astrophysics}, 15\penalty0 (12):\penalty0 2164–2172, Dec. 2015.
+\newblock ISSN 1674-4527.
+\newblock \doi{10.1088/1674-4527/15/12/004}.
+\newblock URL \url{http://dx.doi.org/10.1088/1674-4527/15/12/004}.
+
+\bibitem[{Mata} et~al.(2016){Mata}, {Ramos-Larios}, {Guerrero}, {Nigoche-Netro}, {Toal{\'a}}, {Fang}, {Rubio}, {Kemp}, {Navarro}, and {Corral}]{mata2016}
+H.~{Mata}, G.~{Ramos-Larios}, M.~A. {Guerrero}, A.~{Nigoche-Netro}, J.~A. {Toal{\'a}}, X.~{Fang}, G.~{Rubio}, S.~N. {Kemp}, S.~G. {Navarro}, and L.~J. {Corral}.
+\newblock {Spitzer mid-infrared spectroscopic observations of planetary nebulae}.
+\newblock \emph{\mnras}, 459\penalty0 (1):\penalty0 841--853, June 2016.
+\newblock \doi{10.1093/mnras/stw646}.
+
+\bibitem[{Menezes} et~al.(2013){Menezes}, {Steiner}, and {Ricci}]{menezes2013}
+R.~B. {Menezes}, J.~E. {Steiner}, and T.~V. {Ricci}.
+\newblock {Collimation and Scattering of the Active Galactic Nucleus Emission in the Sombrero Galaxy}.
+\newblock \emph{\apjl}, 765\penalty0 (2):\penalty0 L40, Mar. 2013.
+\newblock \doi{10.1088/2041-8205/765/2/L40}.
+
+\bibitem[Mulcahy et~al.(2014)Mulcahy, Horneffer, Beck, Heald, Fletcher, Scaife, Adebahr, Anderson, Bonafede, Brüggen, Brunetti, Chyży, Conway, Dettmar, Enßlin, Haverkorn, Horellou, Iacobelli, Israel, Junklewitz, Jurusik, Köhler, Kuniyoshi, Orrú, Paladino, Pizzo, Reich, and Röttgering]{mulcahy2014}
+D.~D. Mulcahy, A.~Horneffer, R.~Beck, G.~Heald, A.~Fletcher, A.~Scaife, B.~Adebahr, J.~M. Anderson, A.~Bonafede, M.~Brüggen, G.~Brunetti, K.~T. Chyży, J.~Conway, R.-J. Dettmar, T.~Enßlin, M.~Haverkorn, C.~Horellou, M.~Iacobelli, F.~P. Israel, H.~Junklewitz, W.~Jurusik, J.~Köhler, M.~Kuniyoshi, E.~Orrú, R.~Paladino, R.~Pizzo, W.~Reich, and H.~J.~A. Röttgering.
+\newblock The nature of the low-frequency emission of m51: First observations of a nearby galaxy with lofar.
+\newblock \emph{Astronomy \&; Astrophysics}, 568:\penalty0 A74, Aug. 2014.
+\newblock ISSN 1432-0746.
+\newblock \doi{10.1051/0004-6361/201424187}.
+\newblock URL \url{http://dx.doi.org/10.1051/0004-6361/201424187}.
+
+\bibitem[PoruchikRzhevsky()]{github}
+PoruchikRzhevsky.
+\newblock Praktikum-z-astronomie.
+\newblock \url{https://github.com/PoruchikRzhevsky/Praktikum-z-astronomie}.
+
+\bibitem[{Sutter} and {Fadda}(2022)]{sutter2022}
+J.~{Sutter} and D.~{Fadda}.
+\newblock {A Molecular Gas Ring Hidden in the Sombrero Galaxy}.
+\newblock \emph{\apj}, 941\penalty0 (1):\penalty0 47, Dec. 2022.
+\newblock \doi{10.3847/1538-4357/ac9d8f}.
+
+\bibitem[{van Hoof} et~al.(2010){van Hoof}, {van de Steene}, {Barlow}, {Exter}, {Sibthorpe}, {Ueta}, {Peris}, {Groenewegen}, {Blommaert}, {Cohen}, {De Meester}, {Ferland}, {Gear}, {Gomez}, {Hargrave}, {Huygen}, {Ivison}, {Jean}, {Leeks}, {Lim}, {Olofsson}, {Polehampton}, {Regibo}, {Royer}, {Swinyard}, {Vandenbussche}, {van Winckel}, {Waelkens}, {Walker}, and {Wesson}]{hoof2010}
+P.~A.~M. {van Hoof}, G.~C. {van de Steene}, M.~J. {Barlow}, K.~M. {Exter}, B.~{Sibthorpe}, T.~{Ueta}, V.~{Peris}, M.~A.~T. {Groenewegen}, J.~A.~D.~L. {Blommaert}, M.~{Cohen}, W.~{De Meester}, G.~J. {Ferland}, W.~K. {Gear}, H.~L. {Gomez}, P.~C. {Hargrave}, E.~{Huygen}, R.~J. {Ivison}, C.~{Jean}, S.~J. {Leeks}, T.~L. {Lim}, G.~{Olofsson}, E.~T. {Polehampton}, S.~{Regibo}, P.~{Royer}, B.~M. {Swinyard}, B.~{Vandenbussche}, H.~{van Winckel}, C.~{Waelkens}, H.~J. {Walker}, and R.~{Wesson}.
+\newblock {Herschel images of NGC 6720: H$_{2}$ formation on dust grains}.
+\newblock \emph{\aap}, 518:\penalty0 L137, July 2010.
+\newblock \doi{10.1051/0004-6361/201014590}.
+
+\end{thebibliography}
